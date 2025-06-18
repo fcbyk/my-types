@@ -1,4 +1,4 @@
-import { fcbyk } from '../types/index'
+import { fcbyk } from '../index'
 
 // 测试 Message 类型
 const message: fcbyk.Message = {

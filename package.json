@@ -2,9 +2,10 @@
   "name": "@fcbyk/types",
   "version": "0.0.1-alpha.0",
   "description": "A collection of reusable TypeScript types for my projects.",
-  "types": "types/index.d.ts",
+  "types": "index.d.ts",
   "files": [
-    "types/**/*.d.ts"
+    "*.d.ts",
+    "fcbyk/**/*.d.ts"
   ],
   "scripts": {
     "test": "tsc --noEmit test/example.test.ts"
