@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "esModuleInterop": true,
+    "noEmit": true
+  },
+  "include": ["types/**/*"],
+  "exclude": ["node_modules"]
+}
